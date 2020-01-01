@@ -9,6 +9,6 @@ Wikipedia comments which have been labeled by human raters for toxic behavior.
 ```
 
 ### train.csv columns
-id            (A)
-comment_text  (S)
+id            (A) <br />
+comment_text  (S) <br />
 toxic         (B)
